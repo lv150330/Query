@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5fc6b19-571d-4191-b00f-9fc4f6057265" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/GongJu/softfile/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\GongJu\softfile\Maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TBd6PuPOQv63u340FaYhcbDeU0" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Beiyong" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SprintDiscoverApplication">
+    <configuration name="SpringCloudRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lsl.SpringCloudRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringConsumerFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-consumer-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lsl.SpringConsumerFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringConsumerRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-consumer-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lsl.SpringConsumerRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lsl.SpringEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintDiscoverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sprint-discover" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lsl.SprintDiscoverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lvxs\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5fc6b19-571d-4191-b00f-9fc4f6057265" name="Default Changelist" comment="" />
+      <created>1572937246551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572937246551</updated>
+      <workItem from="1572937250120" duration="1443000" />
+      <workItem from="1572938701063" duration="6517000" />
+      <workItem from="1572950040568" duration="2000000" />
+      <workItem from="1573007995021" duration="3298000" />
+      <workItem from="1573037180723" duration="2613000" />
+      <workItem from="1573042392423" duration="2686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
